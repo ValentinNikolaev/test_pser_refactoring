@@ -3,6 +3,8 @@
 ## Getting Started
 
 ### Before start
+I've tried not to use any third-party libraries or frameworks at all, except PSR contracts.
+
 The code has been refactored to incorporate OOP principles, making it more organized and maintainable. Some code snippets have been wrapped in functions for better structure and development speed improvement.
 
 Acceptance tests have been included to ensure that the core functionality of the application works as expected. These tests provide end-to-end verification of the application's behavior.
