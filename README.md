@@ -13,6 +13,13 @@ Additionally, API client tests have been implemented to demonstrate how to use m
 
 Please note that more tests could be added for comprehensive coverage, but the focus here is on demonstrating the testing approach within a limited timeframe.
 
+### To improve
+- as docker don\t have access to files from host machina need to use some mechanism to force this. For. ex - external linked storages
+- move functions to classes
+- I dont like entry point. some kind of microframeworks can be used here.
+- Calculations tests must be added
+
+
 ### Requirements
 Check provided **gist** file to see full task requirements
 
