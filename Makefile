@@ -49,7 +49,7 @@ help: .title
 	@echo ''
 	@echo 'Available targets:'
 	@echo ''
-	@echo 'App'
+	@echo '### App ###'
 	@echo '  test           Full tests run.'
 	@echo '  calculation    Run calculation.'
 	@echo ''
