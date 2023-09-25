@@ -1,0 +1,9 @@
+version: '3.7'
+services:
+  php:
+    container_name: test-app-pser
+    stdin_open: true # docker run -i
+    tty: true
+    build:
+      context: .
+      dockerfile: Dockerfile    # docker run -t
